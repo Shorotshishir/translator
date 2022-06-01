@@ -30,7 +30,7 @@ hstspreload==2020.12.22; python_version >= '3.6'
 
 httpcore==0.9.1; python_version >= '3.6'
 
-httpx==0.13.3; python_version >= '3.6'
+httpx==0.23.0; python_version >= '3.6'
 
 hyperframe==5.2.0
 
